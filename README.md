@@ -12,7 +12,7 @@ Blockchain Dev | Smart Contract Engineer
 
 I love Technology more than my food, a passionate Blockchain developer. Currently working as Blockchain Intern at GetBoarded!
 * 🌍  Indian
-* ✉️  You can contact me on Linkedin/Twitter or at mailto: mujahidshaik2002@gmail.com
+* ✉️  You can contact me on Linkedin/Twitter or at mail to: mujahidshaik2002@gmail.com
 * 🧠  I'm learning Blockchain, Web3.
 * 🤝  I'm open to collaborating on Blockchain projects.
 * ⚡  Enjoying everyday by attending multiple Technical events/Meetups in HYD.
